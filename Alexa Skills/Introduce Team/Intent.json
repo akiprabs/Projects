@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "MyColorIsIntent",
+      "slots": [
+        {
+          "name": "team",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "WhatsMyColorIntent",
+	  "slots": []
+    }
+  ]
+}
+
+
+
+// Call phrases which Alexa will understand
+
+/*
+// phrases for MyColorIsIntent intent
+MyTeamName What is his team name
+MyTeamName which team does he belong to
+MyTeamName my favourite color is {red|color}
+MyTeamName my favourite color is {black|color}
+
+// phrases for WhatsMyColorIntent intent
+WhatsMyColorIntent what my color
+WhatsMyColorIntent what is my color
+WhatsMyColorIntent say my color
+WhatsMyColorIntent tell me my color
+WhatsMyColorIntent what my favourite color
+WhatsMyColorIntent what is my favourite color
+WhatsMyColorIntent say my favourite color
+WhatsMyColorIntent tell me my favourite color
+WhatsMyColorIntent tell me what is my favourite color
+*/
