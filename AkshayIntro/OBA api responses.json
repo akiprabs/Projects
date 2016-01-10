@@ -1,0 +1,318 @@
+// Schedule for Stops
+
+{
+    "code": 200,
+    "currentTime": 1452417029291,
+    "data": {
+        "entry": {
+            "date": 1452417029285,
+            "stopId": "1_68462",
+            "stopRouteSchedules": [
+                {
+                    "routeId": "1_100136",
+                    "stopRouteDirectionSchedules": [
+                        {
+                            "scheduleFrequencies": [],
+                            "scheduleStopTimes": [
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452438560000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452438560000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768132"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452442216000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452442216000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28765608"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452445816000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452445816000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28765609"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452449416000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452449416000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28765610"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452451276000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452451276000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768111"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452453077000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452453077000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768112"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452454877000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452454877000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768113"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452456677000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452456677000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768114"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452458477000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452458477000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768115"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452460277000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452460277000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768116"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452462077000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452462077000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768117"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452463877000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452463877000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768118"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452465677000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452465677000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768119"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452467477000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452467477000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768120"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452469277000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452469277000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768121"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452471077000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452471077000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768122"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452472877000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452472877000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768123"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452474677000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452474677000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768124"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452476477000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452476477000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768125"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452478277000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452478277000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768126"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452479960000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452479960000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768127"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452481760000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452481760000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768128"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452485360000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452485360000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768129"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452488960000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452488960000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768130"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452492560000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452492560000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768131"
+                                },
+                                {
+                                    "arrivalEnabled": true,
+                                    "arrivalTime": 1452496160000,
+                                    "departureEnabled": true,
+                                    "departureTime": 1452496160000,
+                                    "serviceId": "1_17409",
+                                    "stopHeadsign": "",
+                                    "tripId": "1_28768133"
+                                }
+                            ],
+                            "tripHeadsign": "FACTORIA CROSSROADS"
+                        }
+                    ]
+                }
+            ]
+        },
+        "references": {
+            "agencies": [
+                {
+                    "disclaimer": "",
+                    "id": "1",
+                    "lang": "EN",
+                    "name": "Metro Transit",
+                    "phone": "206-553-3000",
+                    "privateService": false,
+                    "timezone": "America/Los_Angeles",
+                    "url": "http://metro.kingcounty.gov"
+                }
+            ],
+            "routes": [
+                {
+                    "agencyId": "1",
+                    "color": "",
+                    "description": "Ridgecrest to Overlake P&R",
+                    "id": "1_100134",
+                    "longName": "",
+                    "shortName": "242",
+                    "textColor": "",
+                    "type": 3,
+                    "url": "http://metro.kingcounty.gov/schedules/242/n0.html"
+                },
+                {
+                    "agencyId": "1",
+                    "color": "",
+                    "description": "Kirkland TC to Crossroads to Factoria",
+                    "id": "1_100136",
+                    "longName": "",
+                    "shortName": "245",
+                    "textColor": "",
+                    "type": 3,
+                    "url": "http://metro.kingcounty.gov/schedules/245/n0.html"
+                }
+            ],
+            "situations": [],
+            "stops": [
+                {
+                    "code": "68462",
+                    "direction": "S",
+                    "id": "1_68462",
+                    "lat": 47.64946,
+                    "locationType": 0,
+                    "lon": -122.132462,
+                    "name": "156th Ave NE & NE 45th St",
+                    "routeIds": [
+                        "1_100134",
+                        "1_100136"
+                    ],
+                    "wheelchairBoarding": "UNKNOWN"
+                }
+            ],
+            "trips": []
+        }
+    },
+    "text": "OK",
+    "version": 2
+}
+

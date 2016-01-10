@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "hobbies"
+    },
+    {
+      "intent": "currentProject"
+    },
+        {
+      "intent": "jobDescription"
+    }
+  ]
+}
+
+
+==>  
+Introduction of AUI into Devportal
+--> Used AUI to launch the Suppressions project
+
+Lead the launch discussions of DSV and DP spilt
+Lead the launch of Gen8 devices 
+--> by creating the query required to copy over the CIC intent in DP
+
+Introduced the BB devices in DP in a completely new AUI styled modal 
+--> Migrated the Amazon devices to the Modal.
+
+==> I had suggested Michael Caldwell to introduce the Devices Modal in the Detail page
+==> Later I had added the edit button in the Device Modal in the device Modal, where we had some disagreements :P
+
+
+newcustomer@esurance.com 
+declaration form
+policy number.
+
+
+906502892
+
+
+PAWA6486487

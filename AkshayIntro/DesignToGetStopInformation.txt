@@ -1,0 +1,19 @@
+Objective:
+Presently(Jan 10 2016), there isn't any skill in Amazon echo(Alexa) which will provide us with the bus schedules for king county buses and stops. We have to open the OBA app to get that information. It would be nice if we could simply ask Alexa to provide us, with the information related to our favourite bus stops.
+
+Proposal:
+1) When Alexa stats with the wake work we will ask het to open our app
+2) On Launch, Alexa will explain the two intents
+    1) provide your favourite stop number (intent 1)
+    2) Get details about your favourite stop (intent 2)
+3) If the user provides his favourite stop, then store it in Dynamo for future reference and provide information of the buses that will be reaching that location in the next 15 minutes
+4) If the user requests information about his favourite stop. Then provide him with the stops that he has already saved in his system and once he spells out that stop number, provide him information about all the buses that are going to stop at that location in next 15 minutes
+5) The api that will be used in this project will be : http://api.pugetsound.onebusaway.org/api/where/schedule-for-stop/[STOP ID].json?key=TEST (Stop id should start with a prefix 1_)
+
+Important links:
+http://developer.onebusaway.org/modules/onebusaway-application-modules/1.1.14/api/where/methods/schedule-for-stop.html
+Example Stop information : http://pugetsound.onebusaway.org/where/iphone/stop.action?id=1_68462
+Get the stop number from : http://pugetsound.onebusaway.org/where/standard/index.action#m(query)q(156th%20ave%2045th%20street%20redmond)qll(47.5607,-122.1463)_(1)
+
+ 
+ 
