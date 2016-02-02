@@ -1,0 +1,14 @@
+Things required:
+1) Audino Relay Module (http://www.amazon.com/gp/product/B0057OC5WK?psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s01)
+2) Bread board to connect the Relay module and the Raspberry pi
+3) 8 Male-Female Pins
+4) 14 Gauge wire 
+5) Connector coming out of the 120VAC socket
+6) switch connecting the relay Module and the Connector
+
+Implementation Details:
+1) Connect the Breadboard to the relay module.
+2) Connect -ve end of the Connector to the relay module
+3) Connect the +ve end of the switch to the relay module
+4) Connect the -ve end of the switch to the Connector
+5) Startup the python server by executing the code "SingleSwitch.py"
